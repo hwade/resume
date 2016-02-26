@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jayin/resume.git"
+    "url": "git+https://github.com/hwade/resume.git"
   },
-  "author": "Jayin Ton",
+  "author": "HWade",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jayin/resume/issues"
+    "url": "https://github.com/hwade/resume/issues"
   },
-  "homepage": "https://github.com/Jayin/resume#readme",
+  "homepage": "https://github.com/hwade/resume#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-less": "^3.0.3",
